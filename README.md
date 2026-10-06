@@ -84,7 +84,15 @@ Multivitamin, 20 pcs
    
 ## CODE PYTHON
 
+Sistem ini menggunakan menu pilihan berulang (while). Output yang muncul pertama adalah pilihan menu 1-3 yaitu; menampilkan semua stok obat, menambahkan obat baru, dan mengubah jumlah stok obat yang ada.
 
+pada pilihan 1.menampilkan semua stok obat, output akan menampilkan list semua obat yang ada.
+
+pada pilihan 2.tambah obat baru, user perlu memasukkan kategori, nama obat baru, dan jumlah stoknya.
+
+pada pilihan 3.ubah jumlah stok obat, user juga perlu memasukkan kategori, nama obat, dan jumlah stok yang ingin diubah.
+
+Selain pilihan 1-3, output akan menunjukkan "input tidak valid, silahkan masukkan pilihan yang benar"
 
 
 
